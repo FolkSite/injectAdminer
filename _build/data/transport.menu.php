@@ -5,6 +5,7 @@ $menus = array();
 $tmp = array(
 	'injectadminer' => array(
 		'description' => 'injectadminer_menu_desc',
+		'parent' => 'Belrus',
 		'action' => array(
 			'controller' => 'index',
 		),
@@ -33,7 +34,7 @@ foreach ($tmp as $k => $v) {
 	$menu->fromArray(array_merge(
 		array(
 			'text' => $k,
-			'parent' => 'components',
+			'parent' => $v['parent'],
 			'icon' => 'images/icons/plugin.gif',
 			'menuindex' => $i,
 			'params' => '',

@@ -1,16 +1,9 @@
 Changelog for injectAdminer.
 
+1.0.0-pl
+==============
++ Adminer 4.2.2
+
 1.0.0-beta
 ==============
-- Opimized for MODX 2.3
-- Improved processors
-- Disabled plugin and system settings
-- Improved UI
-- Added grid actions
-- Added icons in menu
-- Added search in grid
-- Grid sorting
-- Enable and disable actions
-- Added process of templates
-- Added process of pages
-- Correct others errores
++ Adminer 4.2.1

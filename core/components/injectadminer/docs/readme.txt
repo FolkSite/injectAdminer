@@ -1,10 +1,8 @@
 --------------------
 injectAdminer
 --------------------
-Author: John Doe <john@doe.com>
+Author: Vitaly Batushev <vitaly@batushev.info>
 --------------------
 
-A basic Extra for MODx Revolution.
+Встроенный Adminer (MySQL) для административной части MODX Revolution
 
-Feel free to suggest ideas/improvements/bugs on GitHub:
-http://github.com/username/injectAdminer/issues
